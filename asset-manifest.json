@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/beerMarket-react/static/css/main.9bbb3b81.css",
+    "main.js": "/beerMarket-react/static/js/main.2d8b0b0c.js",
+    "static/media/beer.svg": "/beerMarket-react/static/media/beer.90d6a9b911ba35ac0e6de83bd5a20fed.svg",
+    "static/media/close.svg": "/beerMarket-react/static/media/close.c9db821652dab8b6c189f3770c7eb359.svg",
+    "index.html": "/beerMarket-react/index.html",
+    "main.9bbb3b81.css.map": "/beerMarket-react/static/css/main.9bbb3b81.css.map",
+    "main.2d8b0b0c.js.map": "/beerMarket-react/static/js/main.2d8b0b0c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bbb3b81.css",
+    "static/js/main.2d8b0b0c.js"
+  ]
+}
